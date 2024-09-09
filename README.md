@@ -1,0 +1,1 @@
+ este repositorio contiene un modelo de predicción de precios mayoristas en tunja, se plantea recopilar y procesar automáticamente la información de precios y abastecimiento obtenidas directamente desde el boletin mayorista del DANE utilizando lstm. Realizado para Talentotech en conjunto con la universidad Sergio Arboleda 
